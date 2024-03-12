@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68607570410",
+    "project_id": "wedding-planning-f3e74",
+    "storage_bucket": "wedding-planning-f3e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68607570410:android:ffcd40d7c68119d8f30293",
+        "android_client_info": {
+          "package_name": "com.example.flutterApplication1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86TDFsEmUPGViUMcL9c9Gf_MygdGZeLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68607570410:android:695e37b6f42ace3ff30293",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86TDFsEmUPGViUMcL9c9Gf_MygdGZeLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
